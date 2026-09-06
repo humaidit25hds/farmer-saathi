@@ -1,0 +1,50 @@
+# =========================
+# BACKEND
+# =========================
+
+backend/venv/
+backend/.env
+backend/*.db
+backend/__pycache__/
+backend/**/*.pyc
+backend/**/*.pyo
+backend/**/*.pyd
+
+
+# =========================
+# FRONTEND
+# =========================
+
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+frontend/.env
+frontend/.env.local
+frontend/.env.production
+frontend/.env.development
+
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+
+# =========================
+# ANDROID GENERATED FILES
+# =========================
+
+frontend/android/.gradle/
+frontend/android/build/
+frontend/android/app/build/
+frontend/android/local.properties/
+
+
+# =========================
+# IDE / OS
+# =========================
+
+.vscode/
+.DS_Store
+Thumbs.db
+
+*.log

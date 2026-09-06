@@ -1,0 +1,13 @@
+fastapi[standard]>=0.141,<0.142
+
+sqlalchemy>=2.0,<3.0
+
+pydantic>=2.0,<3.0
+
+python-dotenv>=1.0,<2.0
+
+google-genai
+
+requests
+
+psycopg[binary]>=3.2,<4.0

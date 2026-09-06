@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FarmerSaathi</string>
+    <string name="title_activity_main">FarmerSaathi</string>
+    <string name="package_name">com.farmersaathi.app</string>
+    <string name="custom_url_scheme">com.farmersaathi.app</string>
+</resources>
